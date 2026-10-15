@@ -1,0 +1,69 @@
+# Ignore thumbnails created by Windows
+Thumbs.db
+
+# Ignore files built by Visual Studio
+# Archivos de objetos
+*.obj
+
+# Archivos de base de datos de depuración
+*.pdb
+
+# Archivos de usuario
+*.user
+
+# Archivos de estado de aplicación
+*.aps
+
+# Archivos de encabezado precompilados
+*.pch
+
+# Archivos de control de código fuente de Visual Studio
+*.vspscc
+
+# Archivos de implementación de interfaz
+*_i.c
+*_p.c
+
+# Archivos de base de datos de clase
+*.ncb
+
+# Archivos de opciones de solución de usuario
+*.suo
+
+# Archivos de biblioteca de tipos
+*.tlb
+*.tlh
+
+# Archivos de respaldo
+*.bak
+
+# Archivos de caché
+*.cache
+
+# Archivos de lista de enlaces incrementales
+*.ilk
+
+# Archivos de registro
+*.log
+
+# Ignore build directories
+[Bb]in
+[Dd]ebug*/
+obj/
+[Rr]elease*/
+
+# Ignore libraries
+*.lib
+*.sbr
+
+# Ignore ReSharper files
+_ReSharper*/
+
+# Ignore test results
+[Tt]est[Rr]esult*
+
+# Ignore Visual Studio temporary files
+.vs
+
+# Ignore NuGet Packages
+packages/
