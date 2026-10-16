@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Softland.ERP.AS.Mbase
 {
-    [TablaBD("MONEDA", "Moneda Prueba")]
+    [TablaBD("MONEDA", "Moneda Prueba 1")]
     public class MonedaMBase : SoftlandObjeto
     {
         private string _MONEDA { get; set; }
