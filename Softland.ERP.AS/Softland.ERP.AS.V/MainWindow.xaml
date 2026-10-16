@@ -21,6 +21,7 @@
 
         <scr:SoftlandBarraMenu x:Name ="SFBarraMenu" Grid.Column="0 " Grid.Row="0" Grid.ColumnSpan="3"/>
         <scr:SoftlandTabla x:Name ="SFTablaMoneda"  Grid.Column="0 " Grid.Row="1" Grid.ColumnSpan="3" Grid.RowSpan="2"/>
+		<scr:SoftlandTabla x:Name ="SFTablaMoneda"  Grid.Column="0 " Grid.Row="1" Grid.ColumnSpan="3" Grid.RowSpan="2"/>
 
 
     </Grid>
